@@ -1,0 +1,134 @@
+[  
+   {  
+      "id":1,
+      "amount":12.1,
+      "category":[  
+         "Food and Drink",
+         "Restaurants"
+      ],
+      "date":"2028-01-01",
+      "iso_currency_code":"USD",
+      "name":"SPACE BAR"
+   },
+   {  
+      "id":2,
+      "amount":10.0,
+      "category":[  
+         "Service",
+         "News Reporting"
+      ],
+      "date":"2028-01-02",
+      "iso_currency_code":"USD",
+      "name":"WASHINGTON POST"
+   },
+   {  
+      "id":3,
+      "amount":150.54,
+      "category":[  
+         "Shops",
+         "Supermarkets and Groceries"
+      ],
+      "date":"2028-01-05",
+      "iso_currency_code":"USD",
+      "name":"WHOLE FOODS"
+   },
+   {  
+      "id":4,
+      "amount":58.23,
+      "category":[  
+         "Shops",
+         "Digital Purchase"
+      ],
+      "date":"2028-01-07",
+      "iso_currency_code":"USD",
+      "name":"AMAZON"
+   },
+   {  
+      "id":5,
+      "amount":22.64,
+      "category":[  
+         "Food and Drink",
+         "Restaurants"
+      ],
+      "date":"2028-01-08",
+      "iso_currency_code":"USD",
+      "name":"CASCAL"
+   },
+   {  
+      "id":6,
+      "amount":100,
+      "category":[  
+         "Travel",
+         "Airlines and Aviation Services"
+      ],
+      "date":"2028-01-09",
+      "iso_currency_code":"USD",
+      "name":"BLUE ORIGIN"
+   },
+   {  
+      "id":7,
+      "amount":94.29,
+      "category":[  
+         "Shops",
+         "Digital Purchase"
+      ],
+      "date":"2028-01-09",
+      "iso_currency_code":"USD",
+      "name":"AMAZON"
+   },
+   {  
+      "id":8,
+      "amount":35.65,
+      "category":[  
+         "Service",
+         "Food and Beverage"
+      ],
+      "date":"2028-01-10",
+      "iso_currency_code":"USD",
+      "name":"DOORDASH"
+   },
+   {  
+      "id":9,
+      "amount":237.23,
+      "category":[  
+         "Shops",
+         "Supermarkets and Groceries"
+      ],
+      "date":"2028-01-14",
+      "iso_currency_code":"USD",
+      "name":"WHOLE FOODS"
+   },
+   {  
+      "id":10,
+      "amount":53.93,
+      "category":[  
+         "Food and Drink",
+         "Restaurants"
+      ],
+      "date":"2028-01-19",
+      "iso_currency_code":"USD",
+      "name":"CASCAL"
+   },
+   {  
+      "id":11,
+      "amount":100,
+      "category":[  
+         "Travel",
+         "Airlines and Aviation Services"
+      ],
+      "date":"2028-01-25",
+      "iso_currency_code":"USD",
+      "name":"BLUE ORIGIN"
+   },
+   {  
+      "id":12,
+      "amount":16.4,
+      "category":[  
+         "Food and Drink",
+         "Restaurants"
+      ],
+      "date":"2028-01-26",
+      "iso_currency_code":"USD",
+      "name":"SPACE BAR"
+   }
+]
