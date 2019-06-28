@@ -1,6 +1,6 @@
 [
     {
-        "amount": 50.42088723136007,
+        "amount": 50.42,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -10,7 +10,7 @@
         "id": 0
     },
     {
-        "amount": 19.427438575846445,
+        "amount": 19.43,
         "category": [
             "Shops",
             "Supermarkets and Groceries"
@@ -20,7 +20,7 @@
         "id": 1
     },
     {
-        "amount": 0.3549724405069288,
+        "amount": 0.35,
         "category": [
             "Shops",
             "Digital Purchase"
@@ -30,7 +30,7 @@
         "id": 2
     },
     {
-        "amount": 3.165743267399643,
+        "amount": 3.17,
         "category": [
             "Travel",
             "Car Service",
@@ -41,7 +41,7 @@
         "id": 3
     },
     {
-        "amount": 2.2641192930628873,
+        "amount": 2.26,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -51,7 +51,7 @@
         "id": 4
     },
     {
-        "amount": 2742.9315393397897,
+        "amount": 2742.93,
         "category": [
             "Payments",
             "Rent"
@@ -61,7 +61,7 @@
         "id": 5
     },
     {
-        "amount": 174.48155308736037,
+        "amount": 174.48,
         "category": [
             "Shops",
             "Digital Purchase"
@@ -71,7 +71,7 @@
         "id": 6
     },
     {
-        "amount": 11.291712013055989,
+        "amount": 11.29,
         "category": [
             "Travel",
             "Car Service",
@@ -82,7 +82,7 @@
         "id": 7
     },
     {
-        "amount": 5.774620634842366,
+        "amount": 5.77,
         "category": [
             "Travel",
             "Car Service",
@@ -93,7 +93,7 @@
         "id": 8
     },
     {
-        "amount": 53.92234688708106,
+        "amount": 53.92,
         "category": [
             "Shops",
             "Clothing and Accessories"
@@ -103,7 +103,7 @@
         "id": 9
     },
     {
-        "amount": 3.6415132755555746,
+        "amount": 3.64,
         "category": [
             "Service",
             "News Reporting"
@@ -113,7 +113,7 @@
         "id": 10
     },
     {
-        "amount": 62.73027354699072,
+        "amount": 62.73,
         "category": [
             "Shops",
             "Digital Purchase"
@@ -123,7 +123,7 @@
         "id": 11
     },
     {
-        "amount": 0.2588425005546151,
+        "amount": 0.26,
         "category": [
             "Travel",
             "Car Service",
@@ -134,7 +134,7 @@
         "id": 12
     },
     {
-        "amount": 3.61630920923355,
+        "amount": 3.62,
         "category": [
             "Travel",
             "Car Service",
@@ -145,7 +145,7 @@
         "id": 13
     },
     {
-        "amount": 0.7922694066129257,
+        "amount": 0.79,
         "category": [
             "Travel",
             "Car Service",
@@ -156,7 +156,7 @@
         "id": 14
     },
     {
-        "amount": 47.7116139339418,
+        "amount": 47.71,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -166,7 +166,7 @@
         "id": 15
     },
     {
-        "amount": 9.82221689576485,
+        "amount": 9.82,
         "category": [
             "Travel",
             "Car Service",
@@ -177,7 +177,7 @@
         "id": 16
     },
     {
-        "amount": 10.875217184718608,
+        "amount": 10.88,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -187,7 +187,7 @@
         "id": 17
     },
     {
-        "amount": 1.9914726855569471,
+        "amount": 1.99,
         "category": [
             "Travel",
             "Car Service",
@@ -198,7 +198,7 @@
         "id": 18
     },
     {
-        "amount": 17.368909157301907,
+        "amount": 17.37,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -208,7 +208,7 @@
         "id": 19
     },
     {
-        "amount": 8.35703769169388,
+        "amount": 8.36,
         "category": [
             "Travel",
             "Car Service",
@@ -219,7 +219,7 @@
         "id": 20
     },
     {
-        "amount": 249.33071444268663,
+        "amount": 249.33,
         "category": [
             "Travel",
             "Airlines and Aviation Services"
@@ -229,7 +229,7 @@
         "id": 21
     },
     {
-        "amount": 15.32670098921075,
+        "amount": 15.33,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -239,7 +239,7 @@
         "id": 22
     },
     {
-        "amount": 62.276996059253,
+        "amount": 62.28,
         "category": [
             "Shops",
             "Supermarkets and Groceries"
@@ -249,7 +249,7 @@
         "id": 23
     },
     {
-        "amount": 7.033695102040451,
+        "amount": 7.03,
         "category": [
             "Travel",
             "Car Service",
@@ -260,7 +260,7 @@
         "id": 24
     },
     {
-        "amount": 8.135210994572294,
+        "amount": 8.14,
         "category": [
             "Travel",
             "Car Service",
@@ -271,7 +271,7 @@
         "id": 25
     },
     {
-        "amount": 55.33949979992502,
+        "amount": 55.34,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -281,7 +281,7 @@
         "id": 26
     },
     {
-        "amount": 1.0370650739819531,
+        "amount": 1.04,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -291,7 +291,7 @@
         "id": 27
     },
     {
-        "amount": 7.508762348125533,
+        "amount": 7.51,
         "category": [
             "Travel",
             "Car Service",
@@ -302,7 +302,7 @@
         "id": 28
     },
     {
-        "amount": 2.3625485271123914,
+        "amount": 2.36,
         "category": [
             "Travel",
             "Car Service",
@@ -313,7 +313,7 @@
         "id": 29
     },
     {
-        "amount": 2.113440965741955,
+        "amount": 2.11,
         "category": [
             "Travel",
             "Car Service",
@@ -324,7 +324,7 @@
         "id": 30
     },
     {
-        "amount": 216.72980046384816,
+        "amount": 216.73,
         "category": [
             "Travel",
             "Airlines and Aviation Services"
@@ -334,7 +334,7 @@
         "id": 31
     },
     {
-        "amount": 56.601403019898825,
+        "amount": 56.6,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -344,7 +344,7 @@
         "id": 32
     },
     {
-        "amount": 43.096233844946454,
+        "amount": 43.1,
         "category": [
             "Shops",
             "Digital Purchase"
@@ -354,7 +354,7 @@
         "id": 33
     },
     {
-        "amount": 68.91529064662275,
+        "amount": 68.92,
         "category": [
             "Recreation",
             "Gyms and Fitness Centers"
@@ -364,7 +364,7 @@
         "id": 34
     },
     {
-        "amount": 1.062627448821618,
+        "amount": 1.06,
         "category": [
             "Shops",
             "Digital Purchase"
@@ -374,7 +374,7 @@
         "id": 35
     },
     {
-        "amount": 50.49065786893601,
+        "amount": 50.49,
         "category": [
             "Food and Drink",
             "Restaurants"
@@ -384,7 +384,7 @@
         "id": 36
     },
     {
-        "amount": 10.724900130917742,
+        "amount": 10.72,
         "category": [
             "Travel",
             "Car Service",
