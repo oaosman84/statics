@@ -1,134 +1,397 @@
-[  
-   {  
-      "id":1,
-      "amount":12.1,
-      "category":[  
-         "Food and Drink",
-         "Restaurants"
-      ],
-      "date":"2028-01-01",
-      "iso_currency_code":"USD",
-      "name":"SPACE BAR"
-   },
-   {  
-      "id":2,
-      "amount":10.0,
-      "category":[  
-         "Service",
-         "News Reporting"
-      ],
-      "date":"2028-01-02",
-      "iso_currency_code":"USD",
-      "name":"WASHINGTON POST"
-   },
-   {  
-      "id":3,
-      "amount":150.54,
-      "category":[  
-         "Shops",
-         "Supermarkets and Groceries"
-      ],
-      "date":"2028-01-05",
-      "iso_currency_code":"USD",
-      "name":"WHOLE FOODS"
-   },
-   {  
-      "id":4,
-      "amount":58.23,
-      "category":[  
-         "Shops",
-         "Digital Purchase"
-      ],
-      "date":"2028-01-07",
-      "iso_currency_code":"USD",
-      "name":"AMAZON"
-   },
-   {  
-      "id":5,
-      "amount":22.64,
-      "category":[  
-         "Food and Drink",
-         "Restaurants"
-      ],
-      "date":"2028-01-08",
-      "iso_currency_code":"USD",
-      "name":"CASCAL"
-   },
-   {  
-      "id":6,
-      "amount":100,
-      "category":[  
-         "Travel",
-         "Airlines and Aviation Services"
-      ],
-      "date":"2028-01-09",
-      "iso_currency_code":"USD",
-      "name":"BLUE ORIGIN"
-   },
-   {  
-      "id":7,
-      "amount":94.29,
-      "category":[  
-         "Shops",
-         "Digital Purchase"
-      ],
-      "date":"2028-01-09",
-      "iso_currency_code":"USD",
-      "name":"AMAZON"
-   },
-   {  
-      "id":8,
-      "amount":35.65,
-      "category":[  
-         "Service",
-         "Food and Beverage"
-      ],
-      "date":"2028-01-10",
-      "iso_currency_code":"USD",
-      "name":"DOORDASH"
-   },
-   {  
-      "id":9,
-      "amount":237.23,
-      "category":[  
-         "Shops",
-         "Supermarkets and Groceries"
-      ],
-      "date":"2028-01-14",
-      "iso_currency_code":"USD",
-      "name":"WHOLE FOODS"
-   },
-   {  
-      "id":10,
-      "amount":53.93,
-      "category":[  
-         "Food and Drink",
-         "Restaurants"
-      ],
-      "date":"2028-01-19",
-      "iso_currency_code":"USD",
-      "name":"CASCAL"
-   },
-   {  
-      "id":11,
-      "amount":100,
-      "category":[  
-         "Travel",
-         "Airlines and Aviation Services"
-      ],
-      "date":"2028-01-25",
-      "iso_currency_code":"USD",
-      "name":"BLUE ORIGIN"
-   },
-   {  
-      "id":12,
-      "amount":16.4,
-      "category":[  
-         "Food and Drink",
-         "Restaurants"
-      ],
-      "date":"2028-01-26",
-      "iso_currency_code":"USD",
-      "name":"SPACE BAR"
-   }
+[
+    {
+        "amount": 50.42088723136007,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-01",
+        "merchant_name": "Crepevine",
+        "id": 0
+    },
+    {
+        "amount": 19.427438575846445,
+        "category": [
+            "Shops",
+            "Supermarkets and Groceries"
+        ],
+        "date": "2029-01-03",
+        "merchant_name": "Whole Foods",
+        "id": 1
+    },
+    {
+        "amount": 0.3549724405069288,
+        "category": [
+            "Shops",
+            "Digital Purchase"
+        ],
+        "date": "2029-01-05",
+        "merchant_name": "Amazon",
+        "id": 2
+    },
+    {
+        "amount": 3.165743267399643,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-05",
+        "merchant_name": "Lyft",
+        "id": 3
+    },
+    {
+        "amount": 2.2641192930628873,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-06",
+        "merchant_name": "Space Bar",
+        "id": 4
+    },
+    {
+        "amount": 2742.9315393397897,
+        "category": [
+            "Payments",
+            "Rent"
+        ],
+        "date": "2029-01-06",
+        "merchant_name": "Avalon Mountain View",
+        "id": 5
+    },
+    {
+        "amount": 174.48155308736037,
+        "category": [
+            "Shops",
+            "Digital Purchase"
+        ],
+        "date": "2029-01-06",
+        "merchant_name": "Amazon",
+        "id": 6
+    },
+    {
+        "amount": 11.291712013055989,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-06",
+        "merchant_name": "Lyft",
+        "id": 7
+    },
+    {
+        "amount": 5.774620634842366,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-06",
+        "merchant_name": "Lyft",
+        "id": 8
+    },
+    {
+        "amount": 53.92234688708106,
+        "category": [
+            "Shops",
+            "Clothing and Accessories"
+        ],
+        "date": "2029-01-07",
+        "merchant_name": "Target",
+        "id": 9
+    },
+    {
+        "amount": 3.6415132755555746,
+        "category": [
+            "Service",
+            "News Reporting"
+        ],
+        "date": "2029-01-09",
+        "merchant_name": "Washington Post",
+        "id": 10
+    },
+    {
+        "amount": 62.73027354699072,
+        "category": [
+            "Shops",
+            "Digital Purchase"
+        ],
+        "date": "2029-01-10",
+        "merchant_name": "Amazon",
+        "id": 11
+    },
+    {
+        "amount": 0.2588425005546151,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-10",
+        "merchant_name": "Lyft",
+        "id": 12
+    },
+    {
+        "amount": 3.61630920923355,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-11",
+        "merchant_name": "Lyft",
+        "id": 13
+    },
+    {
+        "amount": 0.7922694066129257,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-11",
+        "merchant_name": "Lyft",
+        "id": 14
+    },
+    {
+        "amount": 47.7116139339418,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-12",
+        "merchant_name": "Cascal",
+        "id": 15
+    },
+    {
+        "amount": 9.82221689576485,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-12",
+        "merchant_name": "Lyft",
+        "id": 16
+    },
+    {
+        "amount": 10.875217184718608,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-13",
+        "merchant_name": "Space Bar",
+        "id": 17
+    },
+    {
+        "amount": 1.9914726855569471,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-14",
+        "merchant_name": "Lyft",
+        "id": 18
+    },
+    {
+        "amount": 17.368909157301907,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-16",
+        "merchant_name": "Space Bar",
+        "id": 19
+    },
+    {
+        "amount": 8.35703769169388,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-16",
+        "merchant_name": "Lyft",
+        "id": 20
+    },
+    {
+        "amount": 249.33071444268663,
+        "category": [
+            "Travel",
+            "Airlines and Aviation Services"
+        ],
+        "date": "2029-01-19",
+        "merchant_name": "Blue Origin",
+        "id": 21
+    },
+    {
+        "amount": 15.32670098921075,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-20",
+        "merchant_name": "Cascal",
+        "id": 22
+    },
+    {
+        "amount": 62.276996059253,
+        "category": [
+            "Shops",
+            "Supermarkets and Groceries"
+        ],
+        "date": "2029-01-20",
+        "merchant_name": "Whole Foods",
+        "id": 23
+    },
+    {
+        "amount": 7.033695102040451,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-20",
+        "merchant_name": "Lyft",
+        "id": 24
+    },
+    {
+        "amount": 8.135210994572294,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-20",
+        "merchant_name": "Lyft",
+        "id": 25
+    },
+    {
+        "amount": 55.33949979992502,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-21",
+        "merchant_name": "Cascal",
+        "id": 26
+    },
+    {
+        "amount": 1.0370650739819531,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-21",
+        "merchant_name": "Space Bar",
+        "id": 27
+    },
+    {
+        "amount": 7.508762348125533,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-22",
+        "merchant_name": "Lyft",
+        "id": 28
+    },
+    {
+        "amount": 2.3625485271123914,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-23",
+        "merchant_name": "Lyft",
+        "id": 29
+    },
+    {
+        "amount": 2.113440965741955,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-23",
+        "merchant_name": "Lyft",
+        "id": 30
+    },
+    {
+        "amount": 216.72980046384816,
+        "category": [
+            "Travel",
+            "Airlines and Aviation Services"
+        ],
+        "date": "2029-01-24",
+        "merchant_name": "Blue Origin",
+        "id": 31
+    },
+    {
+        "amount": 56.601403019898825,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-25",
+        "merchant_name": "Crepevine",
+        "id": 32
+    },
+    {
+        "amount": 43.096233844946454,
+        "category": [
+            "Shops",
+            "Digital Purchase"
+        ],
+        "date": "2029-01-25",
+        "merchant_name": "Amazon",
+        "id": 33
+    },
+    {
+        "amount": 68.91529064662275,
+        "category": [
+            "Recreation",
+            "Gyms and Fitness Centers"
+        ],
+        "date": "2029-01-28",
+        "merchant_name": "24 Hour Fitness",
+        "id": 34
+    },
+    {
+        "amount": 1.062627448821618,
+        "category": [
+            "Shops",
+            "Digital Purchase"
+        ],
+        "date": "2029-01-28",
+        "merchant_name": "Amazon",
+        "id": 35
+    },
+    {
+        "amount": 50.49065786893601,
+        "category": [
+            "Food and Drink",
+            "Restaurants"
+        ],
+        "date": "2029-01-31",
+        "merchant_name": "Cascal",
+        "id": 36
+    },
+    {
+        "amount": 10.724900130917742,
+        "category": [
+            "Travel",
+            "Car Service",
+            "Ride Share"
+        ],
+        "date": "2029-01-31",
+        "merchant_name": "Lyft",
+        "id": 37
+    }
 ]
